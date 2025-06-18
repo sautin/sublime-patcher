@@ -1,4 +1,4 @@
-# 🔧 Sublime Binary Forge - Quick Start Guide
+# 🔧 Sublime Text 4 License Key Patcher - Quick Start Guide
 
 ## 🌐 Online Access
 Try it now: [Sublime Binary Forge Web App](https://sublime-patcher.streamlit.app/)
