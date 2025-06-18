@@ -1,27 +1,66 @@
-# 🔧 Sublime Binary Forge
+# 🔧 Sublime Binary Forge - Quick Start Guide
 
-> Advanced Sublime Text Binary Patcher - Educational Research Tool
+## 🌐 Online Access
+Try it now: [Sublime Binary Forge Web App](https://sublime-patcher.streamlit.app/)
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+## 📝 Usage Instructions
 
-## 🎯 Overview
+1. **Access the Tool**
+   - Visit https://sublime-patcher.streamlit.app/
+   - Wait for the cyber-themed interface to load
 
-Sublime Binary Forge is an advanced binary manipulation tool designed for educational purposes and reverse engineering research. It provides a user-friendly interface for applying strategic patches to Sublime Text executables.
+2. **Prepare Your File**
+   - Locate your `sublime_text.exe`
+   - Typical path: `C:\Program Files\Sublime Text\sublime_text.exe`
+   - **Important**: Create a backup of your original file
 
-## ✨ Features
+3. **Upload & Patch**
+   - Click the file upload area
+   - Select your `sublime_text.exe`
+   - Wait for the analysis to complete
+   - Click "EXECUTE PATCH PROTOCOL"
 
-- 🔍 **Binary Analysis** - Advanced PE executable validation
-- ⚡ **Strategic Patching** - Precision NOP instruction placement
-- 🎨 **Cyber UI** - Matrix-themed interface with real-time animations
-- 📊 **Patch Statistics** - Detailed analysis and success metrics
-- 🔒 **Safety Features** - Built-in validation and error handling
-- 💾 **Backup System** - Automatic original file preservation
+4. **Download & Replace**
+   - Download the patched executable
+   - Replace your original file
+   - Restart Sublime Text
 
-## 🚀 Quick Start
+## ⚠️ Important Notes
 
-### Prerequisites
+- For educational and research purposes only
+- Always backup your original files
+- Use in a controlled environment
+- Respect software licenses
 
-```bash
-python -m pip install streamlit
+## 🔍 Features
+
+- Real-time binary analysis
+- Advanced patch verification
+- Automatic backup creation
+- Detailed success metrics
+- Matrix-themed UI
+
+## 💡 Tips
+
+- Run as administrator when replacing files
+- Keep your original backup safe
+- Check compatibility before patching
+- Follow all security prompts
+
+## 🤝 Support
+
+If you found this tool helpful:
+- ⭐ Star the repository
+- 🐛 Report any issues
+- 📢 Share your experience
+
+## 📚 Learn More
+
+Check out the [full documentation](https://github.com/IhtishamAliii/sublime-patcher) for:
+- Detailed technical information
+- Advanced usage guides
+- Contributing guidelines
+- Security best practices
+
+---
+*Remember: This tool is for educational research only. Always support software developers by purchasing licenses for commercial use.*
